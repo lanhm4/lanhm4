@@ -1,5 +1,3 @@
 # lanhm4
 
-first test
-
-second test
+I'm a student.
