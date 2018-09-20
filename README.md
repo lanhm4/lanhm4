@@ -1,3 +1,3 @@
 # lanhm4
 
-I'm a student.
+I'm not a student.
