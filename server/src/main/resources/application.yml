@@ -1,3 +1,10 @@
 server:
   port:
-    8082
+    8081
+eureka:
+  client:
+    serviceUrl: #注册中心的注册地址
+      defaultZone: http://localhost:8082/eureka/
+spring:
+  application:
+    name: admin-server #服务名称--调用的时候根据名称来调用该服务的方法
